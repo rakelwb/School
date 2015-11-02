@@ -1,0 +1,486 @@
+﻿Íslensk-enskur orðalisti
+========================
+afkomandi                          	descendant
+afleiðing                          	conclusion
+afleiðsla                          	derivation
+aleiðslutré                        	derivation tree
+algorithm                          	reiknirit
+almagnari                          	universal quantifier
+almengi                            	universal set
+ancestor                           	forforeldri
+andsamhverf vensl                  	antisymmetric relation
+atburður                           	event
+aðgreind-eðun                      	exclusive or
+aðskilin                           	disjoint
+bitafylki                          	zero-one matrix
+Boole veldi                        	Boolean power
+breiddarleit                       	breadth-first search
+brigðgeng stöðuvél                 	nondeterministic state machine
+composite number                   	samsett tala
+deila og drottna                   	divide and conquer
+deilir                             	divisor
+deilistofn                         	dividend
+dreifiregla                        	distributive rule
+dulritun                           	cryptography
+dýpt                               	level
+dýptarleit                         	depth-first search
+eftirröðunaryfirferð               	postorder traversal
+eftirtáknun                        	postfix
+eiginleg röðun                     	proper ordering
+einfalt net                        	simple net
+einsmótun                          	isomorphic
+eintækur                           	one-to-one
+eintækur                           	injective
+endahnútur                         	endpoint
+endahnútur                         	terminal vertex
+endanleg stöðuvél                  	finite state automation
+endurkvæm skilgreining             	recursive definition
+endurkvæmni                        	recursion
+endurkvæmt reiknirit               	recursive algorithm
+event                              	atburður
+eðun                               	disjunction
+faldmengi                          	Cartesian product
+fervik                             	variance
+fjöldatala                         	cardinality
+fjölnet                            	multigraph
+flétturöðun                        	merge sort
+flétturöðun                        	merge sort
+formlegt mál                       	formal language
+forröðunaryfirferð                 	preorder traversal
+forsenda                           	hypothesis
+fortáknun                          	prefix
+frumtala                           	prime number
+frumtalnasetningin                 	fundamental theorem of arithmetic
+frumþáttur                         	prime factor
+fullnægjanleg                      	satisfiable
+fullskipað m-tré                   	full m-ary tree
+fulltengt net                      	complete graph
+fyllimengi                         	complement of a set
+gagntækur                          	bijective
+gegnvirk vensl                     	transitive
+gerðarþrepun                       	structural induction
+gildi                              	image (of an element)
+grannafylki                        	adjacency matrix
+grannar                            	neighbor
+grannröðun                         	topological sort
+grennslafylki                      	adjacency matrix
+grunnur                            	basis
+gráða hnúts                        	degree of vertex
+Hasse-mynd                         	Hasse diagram
+heiltala                           	integer
+hjólnet                            	wheel
+hliðruð                            	nonhomogenous
+hlutmengi                          	subset
+hlutnet                            	subgraph
+hlutraðað mengi                    	partially ordered set (poset)
+hnútur                             	vertex
+hrekjanleg                         	unsatisfiable
+hringnet                           	cycle
+hringvegur                         	circuit
+hástak                             	maximal element
+hægra barn                         	right child
+hæð                                	height
+identity                           	jafngildi
+inngráða                           	in-degree
+innri hnútur                       	internal vertex
+innröðunaryfirferð                 	inorder traversal
+innsetningarröðun                  	insertion sort
+innsetningarröðun                  	insertion sort
+inntaksróf                         	input alphabet
+inntaksróf                         	input alphabet
+jafndreifing                       	uniform distribution
+jafngild yrðing                    	propositional equivalence
+jafngildi                          	biconditional statement
+jafngildisvensl                    	equivalence relation
+Karnaugh mynd                      	Karnuagh diagram
+Kleene lokun                       	Kleene closure
+kvóti                              	quotient
+kóðun                              	coding
+lauf                               	leaf
+leggur                             	edge
+legufylki                          	incidence matrix
+leif                               	reminder
+leikjatré                          	game tree
+leiðing                            	conditional statement
+litun                              	coloring
+litunartala                        	chromatic number
+lokastaða                          	final state
+lokatákn                           	terminal element
+lokun                              	closure
+lágstak                            	minimal element
+líkindadreifing                    	probability distribution
+línuleg samleifingajafna           	linear congruence
+línulega raðað mengi               	linearly ordered set
+línulega raðað mengi               	totally ordered set
+löggengur                          	deterministic
+lögmál um aðild og útilokun        	inclusion-exclusion principle
+m-tré                              	m-ary tree
+magnari                            	quantifier
+margfeldisregla                    	product rule
+mengi                              	set
+mengjaaðgerð                       	set operation
+minnsta stak                       	least element
+minnsti samfelldi                  	least common multiple
+mismunajafna                       	difference equation
+myndmengi                          	range
+málskipan                          	grammar
+mátreikningur                      	modular arithmetic
+mátuð veldishafning                	modular exponentation
+mótsögn                            	contradiction
+neitun                             	negation
+net                                	graph
+ofurteningsnet                     	n-cube
+og-un                              	conjunction
+prímtala                           	prime number
+rakningarvensl                     	recurrence relation
+random                             	handahófskennt
+rauntala                           	real number
+raðað rótartré                     	ordered rooted tree
+regluleg segð                      	regular expression
+ruslpóstur                         	spam
+ræð tala                           	rational number
+rót                                	root
+rótartré                           	rooted tree
+rökleiðing                         	argument form
+rökleiðsla                         	inference
+rökstytting                        	resolution
+rökvirki                           	logical operator
+samantekt                          	combination
+sambærileg stök                    	comparable elements
+samdeilir                          	common divisor
+samhangandi net                    	connected net
+samhverf vensl                     	symmetric relation
+samleifa                           	congruent
+sammengi                           	union
+samsemdarvensl                     	identity relation
+samsemdarvensl                     	diagonal relation
+samsett yrðing                     	compound propostion
+samskeyting                        	concatenation
+sanntafla                          	truth table
+segð                               	expression
+sjálfhverf vensl                   	reflexive relation
+skilyrtar líkur                    	conditional probability
+skipting                           	partition
+slembibreyta                       	random variable
+slembileiki                        	randomness
+sléttunet                          	planar graph
+sniðmengi                          	intersection
+spannandi tré                      	spanning tree
+stafróf                            	alphabet
+stafrófsröð                        	lexicographic ordering
+staða                              	state
+stefnt net                         	directed graph
+sterk þrepun                       	strong induction
+strangt samhangandi                	strongly connected
+strengur                           	string
+strengur                           	string
+stærsta stak                       	greatest element
+stöðufærslufall                    	transition function
+summuregla                         	sum rule
+sérlausn                           	particular solution
+sísanna                            	tautology
+talningarök                        	combinatorial proof
+tengiregla                         	associative rule
+tengslavensl                       	connectivity relation
+tilraun                            	experiment
+tilvistarmagnari                   	existential quantifier
+tvíhlutanet                        	bipartite graph
+tvíkostadreifing                   	binomial distribution
+tvíliða                            	binomial
+tvíliðustuðlar                     	binomial coefficients
+tvístæð vensl                      	binary relation
+tvíundatré                         	binary tree
+táknmengi                          	vocabulary
+tóma mengið                        	empty set
+túlkun                             	interpretation
+umritunarregla                     	production rule
+umröðun                            	permutation
+umsagnarökfræði                    	predicate logic
+umsögn                             	predicate
+undirstak                          	lower bound
+upphafshnútur                      	initial vertex
+upphafsskilyrði                    	initial condition
+upphafsstaða                       	initial state
+upphafstákn                        	start symbol
+vegið net                          	weighted graph
+vegur                              	path
+veikt samhangandi                  	weakly connected
+vel grundað                        	well-founded
+veldamengi                         	power set
+velröðunarlögmál                   	well-ordering principle
+Venn mynd                          	Venn diagram
+vensl                              	relation
+vinstra barn                       	left child
+virki                              	operator
+viðsnúin vensl                     	converse relation
+viðsnúin vensl                     	inverse relation
+væntigildi                         	expected value
+víxlregla                          	commutative rule
+yfirferð trjáa                     	tree traversal
+yfirstak                           	upper bound
+yrðing                             	proposition
+ákvarðanatré                       	decision tree
+átækur                             	onto
+átækur                             	surjective
+ítak                               	co-domain
+ítrun                              	iteration
+óhliðruð                           	homogenous
+óháðir                             	independent
+óháðir atburðir                    	independent events
+ósamþátta                          	relatively prime
+óstefnt net                        	undirected graph
+óðal                               	domain of discourse
+óðal                               	domain
+úrtaka með skilum                  	sampling with replacement
+úrtaka án skila                    	sampling without replacement
+útgráða                            	out-degree
+útkomurúm                          	sample space
+útvíkkun                           	addition
+þrenging                           	simplification
+þrepun                             	induction
+þrepunarforsenda                   	inductive hypothesis
+þáttur                             	factor
+
+
+Ensk-íslenskur orðalisti
+============================
+addition                           	útvíkkun
+adjacency matrix                   	grennslafylki
+adjacency matrix                   	grannafylki
+alphabet                           	stafróf
+antisymmetric relation             	andsamhverf vensl
+argument form                      	rökleiðing
+associative rule                   	tengiregla
+atburður                           	event
+basis                              	grunnur
+biconditional statement            	jafngildi
+bijective                          	gagntækur
+binary relation                    	tvístæð vensl
+binary tree                        	tvíundatré
+binomial                           	tvíliða
+binomial coefficients              	tvíliðustuðlar
+binomial distribution              	tvíkostadreifing
+bipartite graph                    	tvíhlutanet
+Boolean power                      	Boole veldi
+breadth-first search               	breiddarleit
+cardinality                        	fjöldatala
+Cartesian product                  	faldmengi
+chromatic number                   	litunartala
+circuit                            	hringvegur
+closure                            	lokun
+co-domain                          	ítak
+coding                             	kóðun
+coloring                           	litun
+combination                        	samantekt
+combinatorial proof                	talningarök
+common divisor                     	samdeilir
+commutative rule                   	víxlregla
+comparable elements                	sambærileg stök
+complement of a set                	fyllimengi
+complete graph                     	fulltengt net
+compound propostion                	samsett yrðing
+concatenation                      	samskeyting
+conclusion                         	afleiðing
+conditional probability            	skilyrtar líkur
+conditional statement              	leiðing
+congruent                          	samleifa
+conjunction                        	og-un
+connected net                      	samhangandi net
+connectivity relation              	tengslavensl
+contradiction                      	mótsögn
+converse relation                  	viðsnúin vensl
+cryptography                       	dulritun
+cycle                              	hringnet
+decision tree                      	ákvarðanatré
+degree of vertex                   	gráða hnúts
+depth-first search                 	dýptarleit
+derivation                         	afleiðsla
+derivation tree                    	aleiðslutré
+descendant                         	afkomandi
+deterministic                      	löggengur
+diagonal relation                  	samsemdarvensl
+difference equation                	mismunajafna
+directed graph                     	stefnt net
+disjoint                           	aðskilin
+disjunction                        	eðun
+distributive rule                  	dreifiregla
+divide and conquer                 	deila og drottna
+dividend                           	deilistofn
+divisor                            	deilir
+domain                             	óðal
+domain of discourse                	óðal
+edge                               	leggur
+empty set                          	tóma mengið
+endpoint                           	endahnútur
+equivalence relation               	jafngildisvensl
+event                              	atburður
+exclusive or                       	aðgreind-eðun
+existential quantifier             	tilvistarmagnari
+expected value                     	væntigildi
+experiment                         	tilraun
+expression                         	segð
+factor                             	þáttur
+final state                        	lokastaða
+finite state automation            	endanleg stöðuvél
+forforeldri                        	ancestor
+formal language                    	formlegt mál
+full m-ary tree                    	fullskipað m-tré
+fundamental theorem of arithmetic  	frumtalnasetningin
+game tree                          	leikjatré
+grammar                            	málskipan
+graph                              	net
+greatest element                   	stærsta stak
+handahófskennt                     	random
+Hasse diagram                      	Hasse-mynd
+height                             	hæð
+homogenous                         	óhliðruð
+hypothesis                         	forsenda
+identity relation                  	samsemdarvensl
+image (of an element)              	gildi
+in-degree                          	inngráða
+incidence matrix                   	legufylki
+inclusion-exclusion principle      	lögmál um aðild og útilokun
+independent                        	óháðir
+independent events                 	óháðir atburðir
+induction                          	þrepun
+inductive hypothesis               	þrepunarforsenda
+inference                          	rökleiðsla
+initial condition                  	upphafsskilyrði
+initial state                      	upphafsstaða
+initial vertex                     	upphafshnútur
+injective                          	eintækur
+inorder traversal                  	innröðunaryfirferð
+input alphabet                     	inntaksróf
+input alphabet                     	inntaksróf
+insertion sort                     	innsetningarröðun
+insertion sort                     	innsetningarröðun
+integer                            	heiltala
+internal vertex                    	innri hnútur
+interpretation                     	túlkun
+intersection                       	sniðmengi
+inverse relation                   	viðsnúin vensl
+isomorphic                         	einsmótun
+iteration                          	ítrun
+jafngildi                          	identity
+Karnuagh diagram                   	Karnaugh mynd
+Kleene closure                     	Kleene lokun
+leaf                               	lauf
+least common multiple              	minnsti samfelldi
+least element                      	minnsta stak
+left child                         	vinstra barn
+level                              	dýpt
+lexicographic ordering             	stafrófsröð 
+linear congruence                  	línuleg samleifingajafna
+linearly ordered set               	línulega raðað mengi
+logical operator                   	rökvirki
+lower bound                        	undirstak
+m-ary tree                         	m-tré
+maximal element                    	hástak
+merge sort                         	flétturöðun
+merge sort                         	flétturöðun
+minimal element                    	lágstak
+modular arithmetic                 	mátreikningur
+modular exponentation              	mátuð veldishafning
+multigraph                         	fjölnet
+n-cube                             	ofurteningsnet
+negation                           	neitun
+neighbor                           	grannar
+nondeterministic state machine     	brigðgeng stöðuvél
+nonhomogenous                      	hliðruð 
+one-to-one                         	eintækur
+onto                               	átækur
+operator                           	virki
+ordered rooted tree                	raðað rótartré
+out-degree                         	útgráða
+partially ordered set (poset)      	hlutraðað mengi
+particular solution                	sérlausn 
+partition                          	skipting
+path                               	vegur
+permutation                        	umröðun
+planar graph                       	sléttunet
+postfix                            	eftirtáknun
+postorder traversal                	eftirröðunaryfirferð
+power set                          	veldamengi
+predicate                          	umsögn
+predicate logic                    	umsagnarökfræði
+prefix                             	fortáknun
+preorder traversal                 	forröðunaryfirferð
+prime factor                       	frumþáttur
+prime number                       	frumtala
+prime number                       	prímtala
+probability distribution           	líkindadreifing
+product rule                       	margfeldisregla
+production rule                    	umritunarregla
+proper ordering                    	eiginleg röðun 
+proposition                        	yrðing
+propositional equivalence          	jafngild yrðing
+quantifier                         	magnari
+quotient                           	kvóti
+random variable                    	slembibreyta
+randomness                         	slembileiki
+range                              	myndmengi
+rational number                    	ræð tala
+real number                        	rauntala
+recurrence relation                	rakningarvensl
+recursion                          	endurkvæmni
+recursive algorithm                	endurkvæmt reiknirit
+recursive definition               	endurkvæm skilgreining
+reflexive relation                 	sjálfhverf vensl
+regular expression                 	regluleg segð
+reiknirit                          	algorithm
+relation                           	vensl
+relatively prime                   	ósamþátta
+reminder                           	leif
+resolution                         	rökstytting
+right child                        	hægra barn
+root                               	rót
+rooted tree                        	rótartré
+sample space                       	útkomurúm
+sampling with replacement          	úrtaka með skilum
+sampling without replacement       	úrtaka án skila
+samsett tala                       	composite number
+satisfiable                        	fullnægjanleg
+set                                	mengi
+set operation                      	mengjaaðgerð
+simple net                         	einfalt net
+simplification                     	þrenging
+spam                               	ruslpóstur
+spanning tree                      	spannandi tré
+start symbol                       	upphafstákn
+state                              	staða
+string                             	strengur
+string                             	strengur
+strong induction                   	sterk þrepun
+strongly connected                 	strangt samhangandi
+structural induction               	gerðarþrepun
+subgraph                           	hlutnet
+subset                             	hlutmengi
+sum rule                           	summuregla
+surjective                         	átækur
+symmetric relation                 	samhverf vensl
+tautology                          	sísanna
+terminal element                   	lokatákn
+terminal vertex                    	endahnútur
+topological sort                   	grannröðun
+totally ordered set                	línulega raðað mengi
+transition function                	stöðufærslufall
+transitive                         	gegnvirk vensl
+tree traversal                     	yfirferð trjáa
+truth table                        	sanntafla
+undirected graph                   	óstefnt net
+uniform distribution               	jafndreifing
+union                              	sammengi
+universal quantifier               	almagnari
+universal set                      	almengi
+unsatisfiable                      	hrekjanleg
+upper bound                        	yfirstak
+variance                           	fervik
+Venn diagram                       	Venn mynd
+vertex                             	hnútur
+vocabulary                         	táknmengi
+weakly connected                   	veikt samhangandi
+weighted graph                     	vegið net
+well-founded                       	vel grundað
+well-ordering principle            	velröðunarlögmál
+wheel                              	hjólnet
+zero-one matrix                    	bitafylki
