@@ -1,0 +1,45 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+import os
+from subprocess import call
+
+repos = ['https://github.com/rakelwb/School.git']
+directories = ['/home/rachel/Documents/']
+os.system('clear')
+
+print('Hvaða repo?\n')
+for i in range(0,len(repos)):
+	print(str(i+1) + ' ' +repos[i])
+
+
+repo = int(raw_input('\n'))-1
+
+
+
+os.chdir(directories[repo])
+os.system('git init')
+os.system('git remote add origin ' + repos[repo])
+os.system('clear')
+os.system('ls')
+print '\n(1)	Pull\n(2)	Push\n(3)	Checkout\n(4)	Rebase\n(5)	Exit'
+print(repos[repo])
+x = raw_input('Hvad viltu gera ')
+
+
+
+if(x == str(1)): 
+	os.system('git pull origin master')
+elif(x == str(2)):
+	os.system('git add .')
+	commit = raw_input("Commit message? ")
+	os.system('git commit -m "'+ commit + '"')
+	os.system('git push origin master')
+elif(x == str(3)):
+	os.system('git checkout .')
+elif(x == str(4)):
+	os.system('git pull --rebase origin master')
+elif(x == str(5)):
+	exit()
+
+
+
